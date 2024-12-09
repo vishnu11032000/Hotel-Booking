@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "mobile_number": "9092932511",
+  "username": "Amogh",
+  "password_hash": "$2a$11$lgKAmoc8he497sux0DH7Q.Fi0wKF/qdEcJszlHi0d97wJBcFx1ZVu"
+},
+{
+  "_id": 0,
+  "mobile_number": "string",
+  "username": "string",
+  "password_hash": "$2a$11$C3po4p0xNEvza2PUCuM8Ve4wA0ClvHUgvBBrHWv4I.jyUKraZZzP."
+},
+{
+  "_id": 2,
+  "mobile_number": "8985921506",
+  "username": "ram",
+  "password_hash": "$2a$11$72tgsZ6uILZ9AM8xXv.TCOWH6cX32XyY4TG8E6/NBQX0LhC7WYp2i"
+},
+{
+  "_id": 3,
+  "mobile_number": "9959794856",
+  "username": "",
+  "password_hash": "$2a$11$AT27JflIAsSz.WqGzgj.0eCjHQHwF9IMdICcUp8FJd7dStS2kyp2y"
+},
+{
+  "_id": 4,
+  "mobile_number": "9959794855",
+  "username": "Vishnuprasad",
+  "password_hash": "$2a$11$sNrROAV0GGRP.VwtDADhouEBSknXNK6QivXYXLl4v1K9LAUP9Npn2"
+},
+{
+  "_id": 5,
+  "mobile_number": "9959794854",
+  "username": "Vishnuprasad",
+  "password_hash": "$2a$11$pgKy5aKGjCrHBc92LRzzce7ywzQ.pIEwWtYXHPKB3feCVozP.4ZSi"
+},
+{
+  "_id": 6,
+  "mobile_number": "9959794851",
+  "username": "Vishnu",
+  "password_hash": "$2a$11$Q05tPgtANl4wIH2.otzRJeDwEww4gLKHlNx6Wv9YXFws1UcYleApW"
+},
+{
+  "_id": 7,
+  "mobile_number": "9999999999",
+  "username": "prasad",
+  "password_hash": "$2a$11$3YkNJ0iaBdOW7TK6uiSi7ukicsOPCrL0e4ewliGpdXubUYALrkU2W"
+}]
